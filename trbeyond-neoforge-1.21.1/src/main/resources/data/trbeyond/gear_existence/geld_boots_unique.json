@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:geld_boots_unique",
+  "evolution": "trbeyond:geld_boots_legend",
+  "minEP": 52000,
+  "maxEP": 225000,
+  "epGain": 0.035
+}

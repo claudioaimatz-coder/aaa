@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:red_spear_unique",
+  "evolution": "trbeyond:red_spear_legend",
+  "minEP": 52000,
+  "maxEP": 225000,
+  "epGain": 0.035
+}

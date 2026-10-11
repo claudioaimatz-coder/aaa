@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:scale_shield_legend",
+  "evolution": "trbeyond:scale_shield_god",
+  "minEP": 225000,
+  "maxEP": 1000000,
+  "epGain": 0.12
+}

@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:geld_helmet_legend",
+  "evolution": "trbeyond:geld_helmet_god",
+  "minEP": 225000,
+  "maxEP": 1000000,
+  "epGain": 0.04
+}

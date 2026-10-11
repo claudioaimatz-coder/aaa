@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:ogre_chestplate_rare",
+  "evolution": "trbeyond:ogre_chestplate_unique",
+  "minEP": 18000,
+  "maxEP": 52000,
+  "epGain": 0.03
+}

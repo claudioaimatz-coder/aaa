@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:scale_shield_unique",
+  "evolution": "trbeyond:scale_shield_legend",
+  "minEP": 52000,
+  "maxEP": 225000,
+  "epGain": 0.105
+}

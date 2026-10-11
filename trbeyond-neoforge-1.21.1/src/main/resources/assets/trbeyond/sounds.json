@@ -1,0 +1,382 @@
+{
+  "vortex_crash": {
+    "sounds": [
+      {
+        "name": "trbeyond:vortex-crash",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.vortex_crash"
+  },
+  "hakuro_attack": {
+    "sounds": [
+      {
+        "name": "trbeyond:hakuro_attack",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.hakuro_attack"
+  },
+  "black_flame_slash": {
+    "sounds": [
+      {
+        "name": "trbeyond:black_flame_slash",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.black_flame_slash"
+  },
+  "evil_centipede_grab_slam": {
+    "sounds": [
+      {
+        "name": "trbeyond:evil_centipede_grab_slam",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.evil_centipede_grab_slam"
+  },
+  "evil_centipede_bite": {
+    "sounds": [
+      {
+        "name": "trbeyond:evil_centipede_bite",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.evil_centipede_bite"
+  },
+  "evil_centipede_floor_slam": {
+    "sounds": [
+      {
+        "name": "trbeyond:evil_centipede_floor_slam",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.evil_centipede_floor_slam"
+  },
+  "evil_centipede_movement": {
+    "sounds": [
+      {
+        "name": "trbeyond:evil_centipede_movement",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.evil_centipede_movement"
+  },
+  "gun_shot": {
+    "sounds": [
+      {
+        "name": "trbeyond:gun_shot",
+        "pitch": 1.0,
+        "attenuation_distance": 30
+      }
+    ],
+    "subtitle": "sounds.trbeyond.gun_shot"
+  },
+  "ogre_lord_ogre_flame": {
+    "sounds": [
+      {
+        "name": "trbeyond:ogre_lord_ogre_flame",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.ogre_lord_ogre_flame"
+  },
+  "ogre_lord_meteorite_strike": {
+    "sounds": [
+      {
+        "name": "trbeyond:ogre_lord_meteorite_strike",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.ogre_lord_meteorite_strike"
+  },
+  "ogre_lord_double_strike": {
+    "sounds": [
+      {
+        "name": "trbeyond:ogre_lord_double_strike",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.ogre_lord_double_strike"
+  },
+  "tempest_serpent_constrict": {
+    "sounds": [
+      {
+        "name": "trbeyond:tempest_serpent_constrict",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.tempest_serpent_constrict"
+  },
+  "tempest_serpent_movement": {
+    "sounds": [
+      {
+        "name": "trbeyond:tempest_serpent_movement",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.tempest_serpent_movement"
+  },
+  "tempest_serpent_bite": {
+    "sounds": [
+      {
+        "name": "trbeyond:tempest_serpent_bite",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.tempest_serpent_bite"
+  },
+  "tempest_serpent_tail_whip": {
+    "sounds": [
+      {
+        "name": "trbeyond:tempest_serpent_tail_whip",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.tempest_serpent_tail_whip"
+  },
+  "tempest_serpent_screech": {
+    "sounds": [
+      {
+        "name": "trbeyond:tempest_serpent_screech",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.tempest_serpent_screech"
+  },
+  "tempest_serpent_poison_cloud": {
+    "sounds": [
+      {
+        "name": "trbeyond:tempest_serpent_poison_cloud",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.tempest_serpent_poison_cloud"
+  },
+  "gozul_block": {
+    "sounds": [
+      {
+        "name": "trbeyond:gozul_block",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.gozul_block"
+  },
+  "gozul_electric_horn": {
+    "sounds": [
+      {
+        "name": "trbeyond:gozul_electric_horn",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.gozul_electric_horn"
+  },
+  "gozul_jump_attack": {
+    "sounds": [
+      {
+        "name": "trbeyond:gozul_jump_attack",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.gozul_jump_attack"
+  },
+  "gozul_lightning_charge": {
+    "sounds": [
+      {
+        "name": "trbeyond:gozul_lightning_charge",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.gozul_lightning_charge"
+  },
+  "gozul_regular_swing": {
+    "sounds": [
+      {
+        "name": "trbeyond:gozul_regular_swing",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.gozul_regular_swing"
+  },
+  "gozul_throw": {
+    "sounds": [
+      {
+        "name": "trbeyond:gozul_throw",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.gozul_throw"
+  },
+  "mezul_block": {
+    "sounds": [
+      {
+        "name": "trbeyond:mezul_block",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.mezul_block"
+  },
+  "mezul_kick": {
+    "sounds": [
+      {
+        "name": "trbeyond:mezul_kick",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.mezul_kick"
+  },
+  "mezul_repeat_strike": {
+    "sounds": [
+      {
+        "name": "trbeyond:mezul_repeat_strike",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.mezul_repeat_strike"
+  },
+  "mezul_spin": {
+    "sounds": [
+      {
+        "name": "trbeyond:mezul_spin",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.mezul_spin"
+  },
+  "mezul_spin_strike": {
+    "sounds": [
+      {
+        "name": "trbeyond:mezul_spin_strike",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.mezul_spin_strike"
+  },
+  "mezul_step_loop": {
+    "sounds": [
+      {
+        "name": "trbeyond:mezul_step_loop",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.mezul_step_loop"
+  },
+  "ghost_mage_holy_ray": {
+    "sounds": [
+      {
+        "name": "trbeyond:ghost_mage_holy_ray",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.ghost_mage_holy_ray"
+  },
+  "ghost_mage_wind_cutter": {
+    "sounds": [
+      {
+        "name": "trbeyond:ghost_mage_wind_cutter",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.ghost_mage_wind_cutter"
+  },
+  "golden_skeleton_swing": {
+    "sounds": [
+      {
+        "name": "trbeyond:golden_skeleton_swing",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.golden_skeleton_swing"
+  },
+  "living_armor_spin": {
+    "sounds": [
+      {
+        "name": "trbeyond:living_armor_spin",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.living_armor_spin"
+  },
+  "living_armor_strike": {
+    "sounds": [
+      {
+        "name": "trbeyond:living_armor_strike",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.living_armor_strike"
+  },
+  "living_armor_walk": {
+    "sounds": [
+      {
+        "name": "trbeyond:living_armor_walk",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.living_armor_walk"
+  },
+  "milim_slime_dash": {
+    "sounds": [
+      {
+        "name": "trbeyond:milim_slime_dash",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.milim_slime_dash"
+  },
+  "ogre_sword_cannon": {
+    "sounds": [
+      {
+        "name": "trbeyond:ogre_sword_cannon",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.ogre_sword_cannon"
+  },
+  "diablo_claw_deflect": {
+    "sounds": [
+      {
+        "name": "trbeyond:diablo_claw_deflect",
+        "pitch": 1.0,
+        "attenuation_distance": 10
+      }
+    ],
+    "subtitle": "sounds.trbeyond.diablo_claw_deflect"
+  }
+}

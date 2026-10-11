@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "id": "trbeyond:dungeon_gate"
+    },
+    "title": "Welcome to TR:Beyond!",
+    "description": "Begin your journey into the world of TR:Beyond.",
+    "frame": "task",
+    "background": "minecraft:textures/gui/advancements/backgrounds/end.png",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "root": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

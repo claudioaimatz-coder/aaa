@@ -1,0 +1,8 @@
+{
+  "type": "trbeyond:momiji",
+  "min_magicule": 600000,
+  "max_magicule": 600000,
+  "abilities": [
+    "tensura:godwolf_sense"
+  ]
+}

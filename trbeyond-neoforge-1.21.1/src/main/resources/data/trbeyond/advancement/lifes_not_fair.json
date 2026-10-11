@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:lantern"
+    },
+    "title": "Life's Not Fair",
+    "description": "Die to Sealing Air",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "trbeyond:dungeon_challenger",
+  "criteria": {
+    "given_through_code": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "trbeyond:gozul",
+  "min_magicule": 130000,
+  "max_magicule": 130000,
+  "abilities": [
+    "tensura:ultraspeed_regeneration",
+    "tensura:magic_jamming"
+  ]
+}

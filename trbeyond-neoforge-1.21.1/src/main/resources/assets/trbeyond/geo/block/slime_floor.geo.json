@@ -1,0 +1,171 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "Root",
+					"pivot": [0, 6, 0]
+				},
+				{
+					"name": "Floor1",
+					"parent": "Root",
+					"pivot": [0, 6, 0],
+					"cubes": [
+						{
+							"origin": [-8, 0, -8],
+							"size": [16, 15, 16],
+							"uv": {
+								"north": {"uv": [0, 81], "uv_size": [16, 16]},
+								"east": {"uv": [16, 81], "uv_size": [16, 16]},
+								"south": {"uv": [0, 81], "uv_size": [16, 16]},
+								"west": {"uv": [16, 81], "uv_size": [16, 16]},
+								"up": {"uv": [16, 33], "uv_size": [-16, -16]},
+								"down": {"uv": [16, 16], "uv_size": [-16, -16]}
+							}
+						},
+						{
+							"origin": [-8, 15.1, -8],
+							"size": [16, 0, 16],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [16, 0]},
+								"east": {"uv": [0, 0], "uv_size": [16, 0]},
+								"south": {"uv": [0, 0], "uv_size": [16, 0]},
+								"west": {"uv": [0, 0], "uv_size": [16, 0]},
+								"up": {"uv": [107, 67], "uv_size": [-16, -15]},
+								"down": {"uv": [97, 81], "uv_size": [-16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "Deepslate1",
+					"parent": "Floor1",
+					"pivot": [0, 16, 0],
+					"cubes": [
+						{
+							"origin": [-8, 15, -8],
+							"size": [16, 1, 16],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [16, 1]},
+								"east": {"uv": [0, 0], "uv_size": [16, 1]},
+								"south": {"uv": [0, 0], "uv_size": [16, 1]},
+								"west": {"uv": [0, 0], "uv_size": [16, 1]},
+								"up": {"uv": [16, 16], "uv_size": [-16, -16]},
+								"down": {"uv": [16, 16], "uv_size": [-16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "Floor2",
+					"parent": "Root",
+					"pivot": [0, 6, 0],
+					"cubes": [
+						{
+							"origin": [-8, 15.1, -8],
+							"size": [16, 0, 16],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [16, 0]},
+								"east": {"uv": [0, 0], "uv_size": [16, 0]},
+								"south": {"uv": [0, 0], "uv_size": [16, 0]},
+								"west": {"uv": [0, 0], "uv_size": [16, 0]},
+								"up": {"uv": [111, 41], "uv_size": [-16, -15]},
+								"down": {"uv": [127, 80], "uv_size": [-16, -16]}
+							}
+						},
+						{
+							"origin": [-8, 0, -8],
+							"size": [16, 15, 16],
+							"uv": {
+								"north": {"uv": [0, 81], "uv_size": [16, 16]},
+								"east": {"uv": [16, 81], "uv_size": [16, 16]},
+								"south": {"uv": [0, 81], "uv_size": [16, 16]},
+								"west": {"uv": [16, 81], "uv_size": [16, 16]},
+								"up": {"uv": [16, 50.75], "uv_size": [-16, -16]},
+								"down": {"uv": [16, 16], "uv_size": [-16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "Deepslate2",
+					"parent": "Floor2",
+					"pivot": [0, 15, 0],
+					"cubes": [
+						{
+							"origin": [-8, 15, -8],
+							"size": [16, 1, 16],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [16, 1]},
+								"east": {"uv": [0, 0], "uv_size": [16, 1]},
+								"south": {"uv": [0, 0], "uv_size": [16, 1]},
+								"west": {"uv": [0, 0], "uv_size": [16, 1]},
+								"up": {"uv": [16, 16], "uv_size": [-16, -16]},
+								"down": {"uv": [16, 16], "uv_size": [-16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "Floor3",
+					"parent": "Root",
+					"pivot": [0, 6, 0],
+					"cubes": [
+						{
+							"origin": [-8, 15.1, -8],
+							"size": [16, 0, 16],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [16, 0]},
+								"east": {"uv": [0, 0], "uv_size": [16, 0]},
+								"south": {"uv": [0, 0], "uv_size": [16, 0]},
+								"west": {"uv": [0, 0], "uv_size": [16, 0]},
+								"up": {"uv": [90, 34], "uv_size": [-16, -15]},
+								"down": {"uv": [97, 54], "uv_size": [-16, -16]}
+							}
+						},
+						{
+							"origin": [-8, 0, -8],
+							"size": [16, 15, 16],
+							"uv": {
+								"north": {"uv": [0, 81], "uv_size": [16, 16]},
+								"east": {"uv": [16, 81], "uv_size": [16, 16]},
+								"south": {"uv": [0, 81], "uv_size": [16, 16]},
+								"west": {"uv": [16, 81], "uv_size": [16, 16]},
+								"up": {"uv": [31.25, 54], "uv_size": [-16, -16]},
+								"down": {"uv": [16, 16], "uv_size": [-16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "Deepslate3",
+					"parent": "Floor3",
+					"pivot": [0, 16, 0],
+					"cubes": [
+						{
+							"origin": [-8, 15, -8],
+							"size": [16, 1, 16],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [16, 1]},
+								"east": {"uv": [0, 0], "uv_size": [16, 1]},
+								"south": {"uv": [0, 0], "uv_size": [16, 1]},
+								"west": {"uv": [0, 0], "uv_size": [16, 1]},
+								"up": {"uv": [16, 16], "uv_size": [-16, -16]},
+								"down": {"uv": [16, 16], "uv_size": [-16, -16]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

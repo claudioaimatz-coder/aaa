@@ -1,0 +1,10 @@
+{
+  "type": "trbeyond:scarlet_slime",
+  "min_magicule": 80000,
+  "max_magicule": 80000,
+  "abilities": [
+    "tensura:self_regeneration",
+    "tensura:absorb_and_dissolve",
+    "tensura:physical_attack_resistance"
+  ]
+}

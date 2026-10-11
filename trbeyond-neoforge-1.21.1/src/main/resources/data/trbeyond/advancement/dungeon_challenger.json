@@ -1,0 +1,21 @@
+{
+  "display": {
+    "icon": {
+      "id": "trbeyond:dungeon_voucher"
+    },
+    "title": "Dungeon Challenger",
+    "description": "Enter the dungeon",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "trbeyond:grand_opening",
+  "criteria": {
+    "enter_dungeon": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "trbeyond:dungeon"
+      }
+    }
+  }
+}

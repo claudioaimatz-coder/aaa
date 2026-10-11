@@ -1,0 +1,6 @@
+{
+  "parent": "trbeyond:item/ogre_axe_handheld",
+  "textures": {
+    "layer0": "trbeyond:item/ogre_axe_unique"
+  }
+}

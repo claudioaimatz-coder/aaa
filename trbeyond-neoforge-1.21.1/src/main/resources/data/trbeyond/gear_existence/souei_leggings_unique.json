@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:souei_leggings_unique",
+  "evolution": "trbeyond:souei_leggings_legend",
+  "minEP": 52000,
+  "maxEP": 225000,
+  "epGain": 0.035
+}

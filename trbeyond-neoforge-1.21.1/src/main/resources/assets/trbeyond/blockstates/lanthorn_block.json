@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "trbeyond:block/lanthorn_block" }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:centipede_dagger_rare",
+  "evolution": "trbeyond:centipede_dagger_unique",
+  "minEP": 18000,
+  "maxEP": 52000,
+  "epGain": 0.03
+}

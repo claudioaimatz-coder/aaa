@@ -1,0 +1,6 @@
+{
+  "type": "trbeyond:scale_shield_god",
+  "minEP": 1000000,
+  "maxEP": 1000000,
+  "epGain": 0.15
+}

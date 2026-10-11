@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:vortex_spear_unique",
+  "evolution": "trbeyond:vortex_spear_legend",
+  "minEP": 6000,
+  "maxEP": 52000,
+  "epGain": 0.025
+}

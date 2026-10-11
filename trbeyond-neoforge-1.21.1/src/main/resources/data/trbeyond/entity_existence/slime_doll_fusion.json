@@ -1,0 +1,9 @@
+{
+  "type": "trbeyond:slime_doll_fusion",
+  "min_magicule": 130000,
+  "max_magicule": 60000,
+  "abilities": [
+    "tensura:ultraspeed_regeneration",
+    "tensura:physical_attack_nullification"
+  ]
+}

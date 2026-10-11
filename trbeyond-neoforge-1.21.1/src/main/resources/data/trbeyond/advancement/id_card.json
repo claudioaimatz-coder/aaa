@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "trbeyond:id_card"
+    },
+    "title": "ID Card",
+    "description": "Obtain the Guild ID Card",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "tensura:reincarnated",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "trbeyond:id_card"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

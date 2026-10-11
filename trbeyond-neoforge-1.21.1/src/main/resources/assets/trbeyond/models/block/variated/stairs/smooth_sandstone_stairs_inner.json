@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "trbeyond:block/smooth_sandstone_stairs",
+    "side": "trbeyond:block/smooth_sandstone_stairs",
+    "top": "trbeyond:block/smooth_sandstone_stairs"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "trbeyond:item/guren",
+  "overrides": [
+    {
+      "model": "trbeyond:item/guren_legend_flame_infused",
+      "predicate": {
+        "trbeyond:black_flame": 1.0
+      }
+    }
+  ]
+}

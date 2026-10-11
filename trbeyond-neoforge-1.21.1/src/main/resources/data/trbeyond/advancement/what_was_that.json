@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "id": "trbeyond:teleporter"
+    },
+    "title": "What Was That?",
+    "description": "Get killed by a unique monster for the first time",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "trbeyond:dungeon_challenger",
+  "criteria": {
+    "given_through_code": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

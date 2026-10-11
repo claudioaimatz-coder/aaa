@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "trbeyond:block/boss_spider_egg",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "trbeyond:block/boss_spider_egg",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "trbeyond:block/boss_spider_egg",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "trbeyond:block/boss_spider_egg",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "trbeyond:block/boss_spider_egg"
+    },
+    "facing=west": {
+      "model": "trbeyond:block/boss_spider_egg",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

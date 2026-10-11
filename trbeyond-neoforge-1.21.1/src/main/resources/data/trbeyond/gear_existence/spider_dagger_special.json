@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:spider_dagger_special",
+  "evolution": "trbeyond:spider_dagger_rare",
+  "minEP": 6000,
+  "maxEP": 18000,
+  "epGain": 0.025
+}

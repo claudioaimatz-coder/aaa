@@ -1,0 +1,8 @@
+{
+  "type": "trbeyond:king_crawler",
+  "min_magicule": 9000,
+  "max_magicule": 10000,
+  "abilities": [
+    "tensura:paralysing_breath"
+  ]
+}

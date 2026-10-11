@@ -1,0 +1,51 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tensura:silver_coin",
+          "weight": 160,
+          "quality": 0,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "trbeyond:dungeon_voucher",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "trbeyond:revival_bracelet",
+              "weight": 6
+            },
+            {
+              "type": "minecraft:item",
+              "name": "trbeyond:return_whistle",
+              "weight": 3
+            },
+            {
+              "type": "minecraft:item",
+              "name": "trbeyond:recording_crystal",
+              "weight": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

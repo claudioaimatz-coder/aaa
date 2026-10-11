@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:hakuro_chestplate_unique",
+  "evolution": "trbeyond:hakuro_chestplate_legend",
+  "minEP": 225000,
+  "maxEP": 1000000,
+  "epGain": 0.04
+}

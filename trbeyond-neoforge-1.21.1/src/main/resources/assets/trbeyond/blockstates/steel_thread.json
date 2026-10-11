@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "axis=x,waterlogged=true": {
+      "model": "trbeyond:block/thread_horizontal",
+      "x": 90
+    },
+    "axis=y,waterlogged=true": {
+      "model": "trbeyond:block/thread_vertical"
+    },
+    "axis=z,waterlogged=true": {
+      "model": "trbeyond:block/thread_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,waterlogged=false": {
+      "model": "trbeyond:block/thread_horizontal",
+      "x": 90
+    },
+    "axis=y,waterlogged=false": {
+      "model": "trbeyond:block/thread_vertical"
+    },
+    "axis=z,waterlogged=false": {
+      "model": "trbeyond:block/thread_horizontal",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

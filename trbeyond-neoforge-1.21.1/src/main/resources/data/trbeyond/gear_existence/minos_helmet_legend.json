@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:minos_helmet_legend",
+  "evolution": "trbeyond:minos_helmet_god",
+  "minEP": 225000,
+  "maxEP": 1000000,
+  "epGain": 0.04
+}

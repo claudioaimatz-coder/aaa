@@ -1,0 +1,4504 @@
+{
+  "variants": {
+    "anim_stage=0,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=0,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=1,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=10,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=11,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=12,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=13,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=14,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=2,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=3,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=4,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=5,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=6,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=7,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=8,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=false,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=false,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=true,enabled=false,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=east,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=east,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=east,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=east,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=east,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 270
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=north,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=north,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=north,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=north,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=north,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 180
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=south,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=south,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=south,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=south,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=south,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker"
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=west,type=0": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=west,type=1": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=west,type=2": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=west,type=3": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    },
+    "anim_stage=9,can_generate=true,enabled=true,facing=west,type=4": {
+      "model": "trbeyond:block/dungeon_unlocker",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "trbeyond:block/polished_diorite_wall"
+  }
+}

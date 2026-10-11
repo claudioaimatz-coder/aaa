@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:souei_chestplate_legend",
+  "evolution": "trbeyond:souei_chestplate_god",
+  "minEP": 225000,
+  "maxEP": 1000000,
+  "epGain": 0.04
+}

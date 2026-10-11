@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:ogre_axe_legend",
+  "evolution": "trbeyond:ogre_axe_god",
+  "minEP": 225000,
+  "maxEP": 1000000,
+  "epGain": 0.04
+}

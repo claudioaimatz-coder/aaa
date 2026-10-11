@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "id": "trbeyond:revival_bracelet"
+    },
+    "title": "It Really Works",
+    "description": "Revive in the dungeon 1 time",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "trbeyond:dungeon_challenger",
+  "criteria": {
+    "given_through_code": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

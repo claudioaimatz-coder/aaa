@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:meat_cleaver_unique",
+  "evolution": "trbeyond:meat_cleaver_legend",
+  "minEP": 52000,
+  "maxEP": 225000,
+  "epGain": 0.105
+}

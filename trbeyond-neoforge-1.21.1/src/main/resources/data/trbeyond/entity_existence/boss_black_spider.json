@@ -1,0 +1,8 @@
+{
+  "type": "trbeyond:boss_black_spider",
+  "min_magicule": 70000,
+  "max_magicule": 80000,
+  "abilities": [
+    "tensura:sticky_steel_thread"
+  ]
+}

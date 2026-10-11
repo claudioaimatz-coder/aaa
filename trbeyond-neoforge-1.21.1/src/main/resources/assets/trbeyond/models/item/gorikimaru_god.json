@@ -1,0 +1,11 @@
+{
+  "parent": "trbeyond:item/gorikimaru",
+  "overrides": [
+    {
+      "model": "trbeyond:item/gorikimaru_god_cannon_effect",
+      "predicate": {
+        "trbeyond:ogre_cannon": 1.0
+      }
+    }
+  ]
+}

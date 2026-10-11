@@ -1,0 +1,6 @@
+{
+  "type": "trbeyond:meat_cleaver_god",
+  "minEP": 1000000,
+  "maxEP": 1000000,
+  "epGain": 0.15
+}

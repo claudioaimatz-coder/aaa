@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:benimaru_leggings_legend",
+  "evolution": "trbeyond:benimaru_leggings_god",
+  "minEP": 225000,
+  "maxEP": 1000000,
+  "epGain": 0.04
+}

@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:hakuro_leggings_unique",
+  "evolution": "trbeyond:hakuro_leggings_legend",
+  "minEP": 225000,
+  "maxEP": 1000000,
+  "epGain": 0.04
+}

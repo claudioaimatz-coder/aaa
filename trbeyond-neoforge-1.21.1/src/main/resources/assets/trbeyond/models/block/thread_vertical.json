@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "trbeyond:block/steel_thread",
+		"particle": "trbeyond:block/steel_thread"
+	},
+	"elements": [
+		{
+			"name": "String",
+			"from": [8, 0, 8],
+			"to": [8.1, 16.1, 8],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.05, 8.05, 8]},
+			"faces": {
+				"north": {"uv": [9, 0, 0, 0.125], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [9, 0, 0, 0.125], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [9, 0, 0, 0.125], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [9, 0, 0, 0.125], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [9, 0, 0, 0.125], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [9, 0, 0, 0.125], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "VerticalString",
+			"origin": [8.02779, 8.33425, 8.3],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

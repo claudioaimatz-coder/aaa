@@ -1,0 +1,22 @@
+{
+  "type": "trbeyond:shion",
+  "min_magicule": 4229140,
+  "max_magicule": 4229140,
+  "abilities": [
+    "tensura:all_seeing_eye",
+    "tensura:infinite_regeneration",
+    "tensura:multilayer_barrier",
+    "tensura:spatial_domination",
+    "tensura:steel_strength",
+    "tensura:strengthen_body",
+    "tensura:ogre_sword_guillotine",
+    "tensura:abnormal_condition_nullification",
+    "tensura:darkness_attack_resistance",
+    "tensura:holy_attack_resistance",
+    "tensura:spiritual_attack_nullification",
+    "tensura:physical_attack_nullification",
+    "tensura:pain_nullification",
+    "tensura:diamond_path",
+    "tensura:cook"
+  ]
+}

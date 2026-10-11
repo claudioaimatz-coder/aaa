@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "trbeyond:boss_black_spider_spawn_egg"
+    },
+    "title": "OgreThrown",
+    "description": "Kill the Ogre Lord Boss",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "trbeyond:insecticide",
+  "criteria": {
+    "kill_ogre_lord_boss": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "trbeyond:ogreboss"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "trbeyond:hakuro_legend",
+  "minEP": 225000,
+  "maxEP": 500000,
+  "epGain": 0.04
+}

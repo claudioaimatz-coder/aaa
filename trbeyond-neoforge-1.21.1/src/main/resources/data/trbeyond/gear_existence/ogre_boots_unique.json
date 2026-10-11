@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:ogre_boots_unique",
+  "evolution": "trbeyond:ogre_boots_legend",
+  "minEP": 52000,
+  "maxEP": 225000,
+  "epGain": 0.035
+}

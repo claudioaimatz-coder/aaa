@@ -1,0 +1,338 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 4,
+        "max": 7
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 0,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "options": [
+                "minecraft:protection",
+                "minecraft:fire_protection",
+                "minecraft:feather_falling",
+                "minecraft:blast_protection",
+                "minecraft:projectile_protection",
+                "minecraft:respiration",
+                "minecraft:aqua_affinity",
+                "minecraft:thorns",
+                "minecraft:depth_strider",
+                "minecraft:frost_walker",
+                "minecraft:binding_curse",
+                "minecraft:sharpness",
+                "minecraft:smite",
+                "minecraft:bane_of_arthropods",
+                "minecraft:knockback",
+                "minecraft:fire_aspect",
+                "minecraft:looting",
+                "minecraft:sweeping_edge",
+                "minecraft:efficiency",
+                "minecraft:silk_touch",
+                "minecraft:unbreaking",
+                "minecraft:fortune",
+                "minecraft:power",
+                "minecraft:punch",
+                "minecraft:flame",
+                "minecraft:infinity",
+                "minecraft:luck_of_the_sea",
+                "minecraft:lure",
+                "minecraft:loyalty",
+                "minecraft:impaling",
+                "minecraft:riptide",
+                "minecraft:channeling",
+                "minecraft:multishot",
+                "minecraft:quick_charge",
+                "minecraft:piercing",
+                "minecraft:mending",
+                "minecraft:vanishing_curse"
+              ]
+            }
+          ],
+          "name": "minecraft:book",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:battlewill_manual",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_golden_apple",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:magic_stone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:hipokute_seeds",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:magic_ore_shard",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:low_magisteel_nugget",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:saddle",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:monster_saddle",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_nugget",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_chestplate",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_chestplate",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_helmet",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_helmet",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_leggings",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_leggings",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_boots",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_boots",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_horse_armor",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_horse_armor",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_horse_armor",
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 20.0,
+        "min": 10.0
+      },
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tensura:silver_coin",
+          "weight": 40
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 6.0,
+        "min": 2.0
+      },
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tensura:high_potion",
+          "weight": 40
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 4.0,
+        "min": 2.0
+      },
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tensura:blade_tiger_scythe",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:kanabo",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:beast_horn_spear",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:unicorn_horn_spear",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:serpent_scalemail_helmet",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:serpent_scalemail_chestplate",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:serpent_scalemail_leggings",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:serpent_scalemail_boots",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:armorsaurus_scalemail_helmet",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:armorsaurus_scalemail_chestplate",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:armorsaurus_scalemail_leggings",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:armorsaurus_scalemail_boots",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:ice_blade",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:vortex_spear",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:tempest_scale_sword",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:tempest_scale_knife",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tensura:tempest_scale_shield",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "trbeyond:red_spear_unique",
+          "weight": 2
+        }
+      ]
+    }
+  ]
+}

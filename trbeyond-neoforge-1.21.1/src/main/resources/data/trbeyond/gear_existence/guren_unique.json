@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:guren_unique",
+  "evolution": "trbeyond:guren_legend",
+  "minEP": 52000,
+  "maxEP": 225000,
+  "epGain": 0.035
+}

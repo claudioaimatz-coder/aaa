@@ -1,0 +1,71 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "Head",
+					"pivot": [0, 3, 0],
+					"cubes": [
+						{"origin": [-4, 0, -4], "size": [8, 6, 8], "uv": [0, 0]},
+						{"origin": [-4, 1, -4], "size": [8, 4, 8], "inflate": 0.2, "uv": [0, 14]}
+					]
+				},
+				{
+					"name": "beam",
+					"parent": "Head",
+					"pivot": [0, 3, 3],
+					"cubes": [
+						{"origin": [0, 0, 2], "size": [0, 6, 10], "uv": [6, 30]}
+					]
+				},
+				{
+					"name": "Ahoge",
+					"parent": "Head",
+					"pivot": [0, 6, -3.25],
+					"cubes": [
+						{"origin": [0, 4.81427, -6.99614], "size": [0, 8, 12], "pivot": [0, 6, -3.25], "rotation": [5, 0, 0], "uv": [0, 39]}
+					]
+				},
+				{
+					"name": "Eyes",
+					"parent": "Head",
+					"pivot": [0, 3, -4],
+					"cubes": [
+						{"origin": [1, 2, -4.5], "size": [1, 2, 1], "uv": [2, 40], "mirror": true},
+						{"origin": [-2, 2, -4.5], "size": [1, 2, 1], "uv": [2, 40]}
+					]
+				},
+				{
+					"name": "Wings",
+					"parent": "Head",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "RightWing",
+					"parent": "Wings",
+					"pivot": [-4.79596, 4.25616, -0.94338],
+					"cubes": [
+						{"origin": [-3.89114, 3.89181, -0.86021], "size": [0, 4, 6], "pivot": [-4.79596, 4.25616, -0.94338], "rotation": [6.6575, -12.39135, -7.67995], "uv": [12, 26]}
+					]
+				},
+				{
+					"name": "LeftWing",
+					"parent": "Wings",
+					"pivot": [4.79596, 4.25616, -0.94338],
+					"cubes": [
+						{"origin": [3.89114, 3.89181, -0.86021], "size": [0, 4, 6], "pivot": [4.79596, 4.25616, -0.94338], "rotation": [6.6575, 12.39135, 7.67995], "uv": [0, 26]}
+					]
+				}
+			]
+		}
+	]
+}

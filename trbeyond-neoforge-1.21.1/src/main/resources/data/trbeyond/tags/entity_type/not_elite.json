@@ -1,0 +1,34 @@
+{
+  "values": [
+    "trbeyond:dryad",
+    "trbeyond:kurobe",
+    "trbeyond:guild_tester",
+    "trbeyond:guild_lady",
+    "trbeyond:training_dummy",
+    "trbeyond:killer_dryad",
+    "trbeyond:kaijin",
+    "tensura:hinata_sakaguchi",
+    "tensura:mark_lauren",
+    "tensura:folgen",
+    "tensura:shogo_taguchi",
+    "tensura:shin_ryusei",
+    "tensura:shinji_tanimura",
+    "tensura:mai_furuki",
+    "tensura:kirara_mizutani",
+    "tensura:kyoya_tachibana",
+    "tensura:falmuth_knight",
+    "tensura:shizu",
+    "tensura:charybdis",
+    "tensura:charybdis_core",
+    "tensura:dragon_peacock",
+    "tensura:one_eyed_owl",
+    "tensura:cattledeer",
+    "tensura:slime",
+    "trbeyond:mjollmile",
+    "trbeyond:koby",
+    {
+      "id": "dummmmmmy:target_dummy",
+      "required": false
+    }
+  ]
+}

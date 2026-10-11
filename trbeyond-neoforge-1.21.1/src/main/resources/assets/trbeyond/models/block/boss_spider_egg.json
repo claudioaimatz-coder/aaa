@@ -1,0 +1,78 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [256, 256],
+	"textures": {
+		"0": "trbeyond:entity/boss_black_spider",
+		"particle": "tensura:block/moth_egg"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 0.81312],
+			"to": [15, 14, 14.81312],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 12.65126, 7.81312]},
+			"faces": {
+				"north": {"uv": [11.5, 11.6875, 12.5, 12.6875], "texture": "#0"},
+				"east": {"uv": [10.5, 11.6875, 11.5, 12.6875], "texture": "#0"},
+				"south": {"uv": [13.5, 11.6875, 14.5, 12.6875], "texture": "#0"},
+				"west": {"uv": [12.5, 11.6875, 13.5, 12.6875], "texture": "#0"},
+				"up": {"uv": [12.5, 11.6875, 11.5, 10.6875], "texture": "#0"},
+				"down": {"uv": [13.5, 10.6875, 12.5, 11.6875], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 13.4013, 2.81312],
+			"to": [13, 16.4013, 12.81312],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 12.65126, 7.81312]},
+			"faces": {
+				"north": {"uv": [8.25, 11.4375, 9, 11.75], "texture": "#0"},
+				"east": {"uv": [7.5, 11.4375, 8.25, 11.75], "texture": "#0"},
+				"south": {"uv": [9.75, 11.4375, 10.5, 11.75], "texture": "#0"},
+				"west": {"uv": [9, 11.4375, 9.75, 11.75], "texture": "#0"},
+				"up": {"uv": [9, 11.4375, 8.25, 10.6875], "texture": "#0"},
+				"down": {"uv": [9.75, 10.6875, 9, 11.4375], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [66.9, 6.25, -0.25],
+			"translation": [-0.25, 0, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [66.9, 6.25, -0.25],
+			"translation": [-0.25, 0, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 2],
+			"translation": [0.25, 1, -0.5],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 2],
+			"translation": [0.25, 1, -0.5],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 1, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [-153.68, -50.32, -180],
+			"translation": [0, -0.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"translation": [0, 1.25, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "Egg",
+			"origin": [8, 12.65126, 7.81312],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

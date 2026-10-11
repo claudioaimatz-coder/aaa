@@ -1,0 +1,10 @@
+{
+  "type": "trbeyond:green_slime_doll",
+  "min_magicule": 100000,
+  "max_magicule": 120000,
+  "abilities": [
+    "tensura:absorb_and_dissolve",
+    "tensura:self_regeneration",
+    "tensura:physical_attack_resistance"
+  ]
+}

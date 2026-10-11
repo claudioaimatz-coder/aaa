@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:serpent_leggings_legend",
+  "evolution": "trbeyond:serpent_leggings_god",
+  "minEP": 225000,
+  "maxEP": 1000000,
+  "epGain": 0.04
+}

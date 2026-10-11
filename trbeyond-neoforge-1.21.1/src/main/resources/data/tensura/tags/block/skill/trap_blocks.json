@@ -1,0 +1,21 @@
+{
+  "values": [
+    "trbeyond:andesite_trapdoor",
+    "trbeyond:brick_trapdoor",
+    "trbeyond:slime_ceiling",
+    "trbeyond:rotating_tile_block",
+    "trbeyond:moving_tile_block",
+    "trbeyond:illusionary_block",
+    "trbeyond:slime_floor",
+    "trbeyond:sealing_air",
+    "trbeyond:steel_thread",
+    "trbeyond:steel_thread_diagonal",
+    "trbeyond:boss_spider_egg",
+    "trbeyond:bronze_tnt_chest",
+    "trbeyond:silver_tnt_chest",
+    "trbeyond:gold_tnt_chest",
+    "trbeyond:bronze_paralysis_chest",
+    "trbeyond:silver_paralysis_chest",
+    "trbeyond:gold_paralysis_chest"
+  ]
+}

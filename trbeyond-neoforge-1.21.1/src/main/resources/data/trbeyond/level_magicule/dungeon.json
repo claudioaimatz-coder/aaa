@@ -1,0 +1,15 @@
+{
+  "modifiers": [
+    {
+      "mode": "MULTIPLY",
+      "value": 10.0
+    }
+  ],
+  "regen_modifiers": [
+    {
+      "mode": "MULTIPLY",
+      "value": 2.0
+    }
+  ],
+  "world": "trbeyond:dungeon"
+}

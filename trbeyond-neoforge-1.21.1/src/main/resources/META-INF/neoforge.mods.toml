@@ -1,0 +1,48 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "trbeyond"
+version = "2.0.0.0"
+displayName = "Tensura Dungeon"
+authors = "Memoires, SwollNnut, MACOMED, MinhEragon"
+description = '''An addon to add the Dungeon to the Tensura: Reincarnated mod by MinhEragon.'''
+
+[[mixins]]
+config = "trbeyond.mixins.json"
+
+[[dependencies.trbeyond]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.trbeyond]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.trbeyond]]
+modId = "tensura"
+type = "required"
+versionRange = "[2.0,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.trbeyond]]
+modId = "geckolib"
+type = "required"
+versionRange = "[4.7,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.trbeyond]]
+modId = "playeranimator"
+type = "required"
+versionRange = "[1.0,)"
+ordering = "NONE"
+side = "BOTH"

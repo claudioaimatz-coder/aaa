@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:minos_bardiche_unique_base",
+  "evolution": "trbeyond:minos_bardiche_legend_base",
+  "minEP": 52000,
+  "maxEP": 225000,
+  "epGain": 0.035
+}

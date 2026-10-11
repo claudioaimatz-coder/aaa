@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:serpent_chestplate_unique",
+  "evolution": "trbeyond:serpent_chestplate_legend",
+  "minEP": 52000,
+  "maxEP": 225000,
+  "epGain": 0.035
+}

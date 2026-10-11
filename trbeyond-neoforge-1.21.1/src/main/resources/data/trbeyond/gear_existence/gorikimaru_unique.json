@@ -1,0 +1,7 @@
+{
+  "type": "trbeyond:gorikimaru_unique",
+  "evolution": "trbeyond:gorikimaru_legend",
+  "minEP": 52000,
+  "maxEP": 225000,
+  "epGain": 0.035
+}

@@ -1,0 +1,9 @@
+{
+  "type": "trbeyond:slime_doll_minions",
+  "min_magicule": 13000,
+  "max_magicule": 13000,
+  "abilities": [
+    "tensura:self_regeneration",
+    "tensura:physical_attack_resistance"
+  ]
+}

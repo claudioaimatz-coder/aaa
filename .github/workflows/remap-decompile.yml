@@ -1,0 +1,75 @@
+name: Remap and decompile trbeyond 1.19.2
+
+# Remapeia os nomes ofuscados (m_123_, f_456_) do trbeyond-1.0.1.4.jar para nomes Mojang,
+# decompila com o Vineflower e salva o codigo-fonte na pasta trbeyond-1.19.2-src/ desta branch.
+# Roda sozinho quando este arquivo ou a pasta tools/ mudam, e tambem manualmente (aba Actions > Run workflow).
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [port/trbeyond-1.21.1-neoforge]
+    paths:
+      - '.github/workflows/remap-decompile.yml'
+      - 'tools/**'
+
+permissions:
+  contents: write
+
+jobs:
+  remap:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - name: Download mappings and decompiler
+        run: |
+          set -euo pipefail
+          mkdir -p work
+          cd work
+          curl -fsSL https://piston-meta.mojang.com/mc/game/version_manifest_v2.json -o manifest.json
+          VURL=$(python3 -c "import json;m=json.load(open('manifest.json'));print([v['url'] for v in m['versions'] if v['id']=='1.19.2'][0])")
+          curl -fsSL "$VURL" -o version.json
+          MURL=$(python3 -c "import json;print(json.load(open('version.json'))['downloads']['client_mappings']['url'])")
+          curl -fsSL "$MURL" -o client.txt
+          curl -fsSL https://raw.githubusercontent.com/MinecraftForge/MCPConfig/master/versions/release/1.19.2/joined.tsrg -o joined.tsrg
+          curl -fsSL https://repo1.maven.org/maven2/org/vineflower/vineflower/1.10.1/vineflower-1.10.1.jar -o vineflower.jar
+          ls -la
+
+      - name: Build SRG to Mojang name map
+        run: python3 tools/srg_to_mojmap.py work/joined.tsrg work/client.txt work/names.json
+
+      - name: Decompile addon
+        run: |
+          set -euo pipefail
+          mkdir -p work/classes work/src
+          unzip -q -o trbeyond-1.0.1.4.jar 'io/*' -d work/classes
+          # o jar do Tensura entra so como biblioteca de tipos; o codigo dele nao e decompilado nem publicado
+          java -Xmx3g -jar work/vineflower.jar -dgs=1 -log=WARN -e=tensura-1.19.2-1.0.2.6.jar work/classes work/src
+          echo "java gerados: $(find work/src -name '*.java' | wc -l)"
+
+      - name: Apply Mojang names
+        run: python3 tools/apply_names.py work/names.json work/src out_src work/report.txt
+
+      - name: Commit sources to the branch
+        run: |
+          set -euo pipefail
+          rm -rf trbeyond-1.19.2-src
+          mkdir trbeyond-1.19.2-src
+          cp -r out_src/. trbeyond-1.19.2-src/
+          cp work/report.txt trbeyond-1.19.2-src/_REMAP_REPORT.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add trbeyond-1.19.2-src
+          git commit -m "Add remapped (Mojang names) decompiled sources of trbeyond 1.19.2" || echo "nada para commitar"
+          git push
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: trbeyond-1.19.2-src
+          path: out_src

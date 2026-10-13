@@ -1,0 +1,21 @@
+arquivos .java: 512
+ids substituidos: 19357
+ids sem nome (ficaram como estavam): 17 (75 ocorrencias)
+
+m_129880_ x20
+m_129783_ x12
+m_129889_ x8
+m_157456_ x8
+m_157429_ x5
+m_157427_ x4
+m_129898_ x3
+m_129785_ x3
+m_129921_ x2
+m_157191_ x2
+m_157182_ x2
+m_129892_ x1
+m_129893_ x1
+m_46251_ x1
+m_69478_ x1
+m_69453_ x1
+m_69461_ x1
